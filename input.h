@@ -3,6 +3,8 @@
 #include <iostream>
 #include <limits>
 
+void clearInput();
+
 template <typename T>
 T getInput(){
   T score {};
